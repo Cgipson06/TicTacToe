@@ -21,7 +21,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+
+Run TicTacToe.rb from the command line to start a 2 player game.
 
 ## Contributing
 
