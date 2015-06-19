@@ -1,6 +1,7 @@
 # TicTacToe
 
-TODO: Write a gem description
+Object Oriented Programming with Ruby
+for [the Odin Project](http://www.theodinproject.com/ruby-programming/oop)
 
 ## Installation
 
